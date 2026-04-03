@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="10" fill="#a855f7"/>
+  <rect x="4" y="4" width="40" height="40" rx="7" fill="#7c3aed"/>
+  <text x="6" y="20" font-family="monospace" font-size="10" font-weight="bold" fill="#f3e8ff">{  }</text>
+  <text x="6" y="32" font-family="monospace" font-size="9" fill="#e9d5ff">key:</text>
+  <path d="M32 20 L42 24 L32 28" stroke="#f0abfc" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
